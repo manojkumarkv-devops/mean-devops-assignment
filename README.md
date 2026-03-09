@@ -1,14 +1,3 @@
-Below is a **complete, detailed, industry-standard `README.md`** combining **everything you did step-by-step + architecture diagrams + CI/CD + secrets + infrastructure + docker compose + git workflow**.
-
-You can **copy this entire file into your GitHub repo as `README.md`**.
-Just replace:
-
-* `<EC2-IP>`
-* `<dockerhub-username>`
-* `<github-repo-url>`
-
----
-
 # 🚀 MEAN Stack DevOps Deployment
 
 This project demonstrates **end-to-end DevOps implementation** for deploying a full-stack **MEAN (MongoDB, Express, Angular, Node.js)** application using containerization, CI/CD automation, and cloud infrastructure.
