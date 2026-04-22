@@ -7,7 +7,7 @@ The deployment uses the following technologies:
 * **Docker & Docker Compose** for containerization
 * **Nginx Reverse Proxy** for application routing
 * **AWS EC2 (Ubuntu)** for infrastructure hosting
-* **Docker Hub** as the container image registry
+* **Docker Hub** as the container image registry.
 * **GitHub Actions** for CI/CD automation
 * **Git** for source control management
 
