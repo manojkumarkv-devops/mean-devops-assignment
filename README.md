@@ -9,7 +9,7 @@ The deployment uses the following technologies:
 * **AWS EC2 (Ubuntu)** for infrastructure hosting
 * **Docker Hub** as the container image registry.
 * **GitHub Actions** for CI/CD automation
-* **Git** for source control management
+* **Git** for source control management.
 
 The objective of this project is to build a **production-style deployment workflow** where application updates automatically trigger a **build → container image push → deployment process**.
 
